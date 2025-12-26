@@ -27,9 +27,6 @@ I am an Embedded Systems learner with hands-on experience in:
 🚧 Work in progress (updated regularly)
 
 - Digital Clock using RTC (ARM7)
-- Keypad-based Calculator
-- Temperature Monitoring using LM35
-- LED & 7-Segment Display Driver
 - Mini Preprocessor in C
 
 ---
