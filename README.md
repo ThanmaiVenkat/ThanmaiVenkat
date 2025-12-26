@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Thanmai Venkat
 
-<!--
-**ThanmaiVenkat/ThanmaiVenkat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Embedded Systems Engineer | ARM | Embedded C | Bare-Metal Programming
 
-Here are some ideas to get you started:
+I am an Embedded Systems learner with hands-on experience in:
+- ARM7 (LPC21xx)
+- Embedded C & Data Structures
+- GPIO, LCD, Keypad, ADC, Timers, Interrupts
+- Bare-metal programming and hardware interfacing
+- Proteus simulation and debugging
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Currently training at Vector India  
+📅 Actively building embedded projects and firmware examples
+
+---
+
+## 🛠️ Technical Skills
+- **Languages:** C, Embedded C
+- **Microcontrollers:** ARM7 (LPC2129/LPC2148)
+- **Peripherals:** GPIO, LCD, Keypad, ADC, UART, Timers
+- **Tools:** Keil, Proteus, Git, GitHub
+- **Concepts:** Interrupts, Memory Mapping, Drivers, Register-level programming
+
+---
+
+## 📂 Projects
+🚧 Work in progress (updated regularly)
+
+- Digital Clock using RTC (ARM7)
+- Keypad-based Calculator
+- Temperature Monitoring using LM35
+- LED & 7-Segment Display Driver
+- Mini Preprocessor in C
+
+---
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/thanmaivenkat/
+
+⚡ *Learning by building, debugging, and understanding hardware from the ground up.*
