@@ -3,7 +3,7 @@
 🎯 Embedded Systems Engineer | ARM | Embedded C | Bare-Metal Programming
 
 I am an Embedded Systems learner with hands-on experience in:
-- ARM7 (LPC21xx)
+- ARM7 (LPC2129/LPC2148)
 - Embedded C & Data Structures
 - GPIO, LCD, Keypad, ADC, Timers, Interrupts
 - Bare-metal programming and hardware interfacing
