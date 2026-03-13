@@ -26,8 +26,9 @@ I am an Embedded Systems learner with hands-on experience in:
 ## 📂 Projects
 🚧 Work in progress (updated regularly)
 
-- Digital Clock using RTC (ARM7)
+- Dose Guardian Intelligent Pill Taking
 - Mini Preprocessor in C
+- Real Time Vehicle Status Monitoring Using Can
 
 ---
 
