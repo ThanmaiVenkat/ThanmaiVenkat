@@ -6,7 +6,7 @@ I am an Embedded Systems learner with hands-on experience in:
 - ARM7 (LPC2129/LPC2148)
 - Embedded C & Data Structures
 - GPIO, LCD, Keypad, ADC, Timers, Interrupts
-- Bare-metal programming and hardware interfacing
+- Hardware interfacing
 - Proteus simulation and debugging
 
 📍 Currently training at Vector India  
@@ -24,7 +24,6 @@ I am an Embedded Systems learner with hands-on experience in:
 ---
 
 ## 📂 Projects
-🚧 Work in progress (updated regularly)
 
 - Dose Guardian Intelligent Pill Taking
 - Mini Preprocessor in C
