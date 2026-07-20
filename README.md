@@ -1,175 +1,184 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║        BOOTING SYSTEM...  [ ████████████████░░ ] 85%        ║
-║        Initializing Thanmai Venkat's GitHub Profile...      ║
-╚══════════════════════════════════════════════════════════════╝
+ ██████████████████████████████████████████████████████████████████
+ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+ █░░ ▄▄▄▄▄▄▄ ▄▄   ▄▄ ▄▄▄▄▄▄▄ ▄▄    ▄ ▄▄   ▄▄ ▄▄▄▄▄▄▄ ▄▄▄     ░░░░█
+ █░░    █    █▄▄▄▄▄█ █▄▄▄▄▄█ █ █   █ █ █▄█ █ █▄▄▄▄▄█  █      ░░░░█
+ █░░    █    █     █ █     █ █  █  █ █     █ █     █  █      ░░░░█
+ █░░    █    █     █ █     █ █   █ █ █ ██  █ █     █ ▄█▄     ░░░░█
+ █░░                                                         ░░░░█
+ █░░           ★ ★ ★   V E N K A T   ★ ★ ★                   ░░░░█
+ █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░█
+ ██████████████████████████████████████████████████████████████████
+              ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+                   ► INSERT COIN TO CONTINUE ◄
 ```
 
-# `$ whoami` → **Thanmai Venkat**
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3500&pause=800&color=00FF41&center=true&vCenter=true&width=820&height=50&lines=EMBEDDED+SYSTEMS+ENGINEER;FIRMWARE+DEVELOPER;I+MAKE+HARDWARE+TALK;PLAYER+1+%E2%80%94+READY!)](https://github.com/ThanmaiVenkat)
 
-### ⚙️ Embedded Systems Engineer · Firmware Developer · Hardware Enthusiast
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Thanmai_Venkat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanmaivenkat/)
-[![GitHub](https://img.shields.io/badge/GitHub-ThanmaiVenkat-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ThanmaiVenkat)
-[![Location](https://img.shields.io/badge/Location-Hyderabad,_India-FF6F00?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Hyderabad,India)
-[![IEEE](https://img.shields.io/badge/IEEE-Published_Author-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/INDISCON66021.2025.11252391)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-00FF41?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)](https://www.linkedin.com/in/thanmaivenkat/)
+[![IEEE](https://img.shields.io/badge/IEEE-PUBLISHED_AUTHOR-FFFF00?style=for-the-badge&logo=ieee&logoColor=black&labelColor=0d1117)](https://doi.org/10.1109/INDISCON66021.2025.11252391)
+[![Location](https://img.shields.io/badge/BASE-HYDERABAD,_IN-FF00FF?style=for-the-badge&logo=googlemaps&logoColor=black&labelColor=0d1117)](https://maps.google.com/?q=Hyderabad,India)
 
 </div>
 
----
+<br>
 
-## 🧠 `cat /proc/me`
+## 🕹️ SELECT YOUR PLAYER
 
-```c
-typedef struct {
-    char    name[]          = "Thanmai Venkat";
-    char    degree[]        = "B.Tech ECE — Sreenidhi Institute of Science & Technology";
-    char    batch[]         = "2025";
-    char    location[]      = "Hyderabad, India";
-    char    target[]        = "Entry-Level Embedded Systems / Firmware Engineer";
-    char    open_to[]       = "Hyderabad | Bangalore | Chennai";
-    bool    ieee_published  = true;
-} engineer_t;
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ┌─────────────┐   PLAYER 1: THANMAI VENKAT                       ║
+║  │   ▄▄▄▄▄▄▄   │   ─────────────────────────────────────────      ║
+║  │  █ ▀▄ ▄▀ █  │   CLASS ......... Embedded Systems Engineer      ║
+║  │  █▄▄▄▄▄▄▄█  │   GUILD ......... B.Tech ECE, Sreenidhi '25      ║
+║  │   █▐███▌█   │   SPAWN POINT ... Hyderabad, India               ║
+║  │   ▀▀▀▀▀▀▀   │   SPECIAL MOVE .. Bare-metal C on ARM7           ║
+║  └─────────────┘   RARE DROP ..... IEEE Publication [LEGENDARY]   ║
+║                    QUEST ......... Firmware / Embedded roles      ║
+║                    MAP UNLOCKED .. HYD ▸ BLR ▸ CHN                ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 > 🔩 *"I don't just write code — I write code that talks to hardware."*
 
 ---
 
-## 🛠️ `lspci` → Hardware & Skills
+## ⚔️ SKILL TREE
+
+```
+ LANGUAGES                          PROTOCOLS
+ ─────────────────────────         ─────────────────────────
+ C / Embedded C  ████████░░ LVL 8   CAN Bus    ████████░░ LVL 8
+ C++             ██████░░░░ LVL 6   UART       ████████░░ LVL 8
+ Bash            ██████░░░░ LVL 6   SPI / I2C  ███████░░░ LVL 7
+                                    GPIO/PWM   ████████░░ LVL 8
+ SYSTEMS                            HARDWARE
+ ─────────────────────────         ─────────────────────────
+ Linux           ███████░░░ LVL 7   ARM7 (LPC2129/48) ████████░░
+ Device Drivers  ██████░░░░ LVL 6   ESP32             ███████░░░
+ FreeRTOS        ██████░░░░ LVL 6   Keil uVision      ███████░░░
+ TCP/IP Sockets  ██████░░░░ LVL 6   Proteus / GCC ARM ███████░░░
+```
 
 <div align="center">
 
-### 🔬 Microcontrollers & Platforms
-![ARM7](https://img.shields.io/badge/ARM7-LPC2129%2FLPC2148-00979D?style=flat-square&logo=arm&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-Dual_Core_MCU-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Microchip](https://img.shields.io/badge/Microchip-Virtual_Intern-EE4B2B?style=flat-square&logo=microchip&logoColor=white)
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-Embedded_&_Systems-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Embedded C](https://img.shields.io/badge/Embedded_C-Bare_Metal-00629B?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-Linux_Scripting-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### 🔌 Protocols & Peripherals
-![CAN Bus](https://img.shields.io/badge/CAN_Bus-Vehicle_Networks-FF6F00?style=flat-square)
-![UART](https://img.shields.io/badge/UART-Serial_Comm-6D3FC0?style=flat-square)
-![SPI](https://img.shields.io/badge/SPI-High_Speed_Sync-0078D4?style=flat-square)
-![I2C](https://img.shields.io/badge/I2C-Multi_Device-34A853?style=flat-square)
-![GPIO](https://img.shields.io/badge/GPIO-Interrupts_&_PWM-EA4335?style=flat-square)
-
-### 🐧 Linux & OS
-![Linux](https://img.shields.io/badge/Linux-Systems_Programming-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Linux Drivers](https://img.shields.io/badge/Linux_Device_Drivers-Kernel_Modules-FCC624?style=flat-square&logo=linux&logoColor=black)
-![RTOS](https://img.shields.io/badge/FreeRTOS-Real_Time_OS-007ACC?style=flat-square)
-![TCP/IP](https://img.shields.io/badge/TCP%2FIP-Socket_Programming-0052CC?style=flat-square)
-
-### 🔧 Tools
-![Keil](https://img.shields.io/badge/Keil_uVision-IDE-9B59B6?style=flat-square)
-![Proteus](https://img.shields.io/badge/Proteus-Circuit_Simulation-2C3E50?style=flat-square)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
-![GCC ARM](https://img.shields.io/badge/GCC_ARM-Toolchain-A42E2B?style=flat-square&logo=gnu&logoColor=white)
+![C](https://img.shields.io/badge/C-BARE_METAL-00FF41?style=flat-square&logo=c&logoColor=black&labelColor=0d1117)
+![ARM](https://img.shields.io/badge/ARM7-LPC2129%2F2148-00FFFF?style=flat-square&logo=arm&logoColor=black&labelColor=0d1117)
+![ESP32](https://img.shields.io/badge/ESP32-WIFI%2BBT-FF00FF?style=flat-square&logo=espressif&logoColor=black&labelColor=0d1117)
+![Linux](https://img.shields.io/badge/LINUX-KERNEL_MODULES-FFFF00?style=flat-square&logo=linux&logoColor=black&labelColor=0d1117)
+![FreeRTOS](https://img.shields.io/badge/FREERTOS-REAL_TIME-00FF41?style=flat-square&labelColor=0d1117)
+![CAN](https://img.shields.io/badge/CAN_BUS-AUTOMOTIVE-FF6F00?style=flat-square&labelColor=0d1117)
+![Git](https://img.shields.io/badge/GIT-VERSION_CONTROL-F05032?style=flat-square&logo=git&logoColor=white&labelColor=0d1117)
 
 </div>
 
 ---
 
-## 🚀 `ls -la ~/projects/`
+## 🗺️ QUEST LOG
 
-### 🤖 ESP32 Explosive Disposal Robot
-> **IEEE INDISCON 2025 Published** · [DOI: 10.1109/INDISCON66021.2025.11252391](https://doi.org/10.1109/INDISCON66021.2025.11252391)
+### 🏆 LEVEL 3 — ESP32 EXPLOSIVE DISPOSAL ROBOT ★ FINAL BOSS CLEARED ★
+
+> 📜 **LEGENDARY LOOT:** IEEE INDISCON 2025 Publication · [DOI: 10.1109/INDISCON66021.2025.11252391](https://doi.org/10.1109/INDISCON66021.2025.11252391)
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│  Platform  : ESP32 (Dual-Core, Bluetooth + Wi-Fi)          │
-│  Mechanics : 4-DOF Robotic Arm + Mecanum Wheel Drive       │
-│  Vision    : ESP32-CAM (Real-time FPV streaming)           │
-│  Control   : Dual-mode — Bluetooth + Wi-Fi                 │
-│  Drivers   : L298N Motor Drivers                           │
-│  Goal      : Remote bomb disposal in hazardous zones       │
-└─────────────────────────────────────────────────────────────┘
+┌──────────────────────── CARTRIDGE DATA ─────────────────────────┐
+│  ENGINE ..... ESP32 dual-core (Bluetooth + Wi-Fi)               │
+│  RIG ........ 4-DOF robotic arm + mecanum wheel drive           │
+│  VISION ..... ESP32-CAM real-time FPV streaming                 │
+│  CONTROLS ... Dual-mode: Bluetooth + Wi-Fi                      │
+│  MISSION .... Remote bomb disposal in hazardous zones           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🚗 LEVEL 2 — REAL-TIME VEHICLE STATUS MONITOR ★ CLEARED ★
+
+> 🎮 [View Cartridge](https://github.com/ThanmaiVenkat/REAL-TIME-VEHICLE-STATUS-MONITORING-USING-CAN)
+
+```
+┌──────────────────────── CARTRIDGE DATA ─────────────────────────┐
+│  ENGINE ..... ARM7 LPC2129                                      │
+│  NETWORK .... CAN Bus (automotive-grade comms)                  │
+│  SENSORS .... Speed, temperature, RPM — real-time polling       │
+│  HUD ........ Live vehicle stats on LCD                         │
+│  MISSION .... Fault detection & dashboard monitoring            │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 💊 LEVEL 1 — DOSEGUARDIAN: PILL-TAKING ASSISTANT ★ CLEARED ★
+
+> 🎮 [View Cartridge](https://github.com/ThanmaiVenkat/DOSEGUARDIAN-INTELLIGENT-PILL-TAKING-ASSISTANT)
+
+```
+┌──────────────────────── CARTRIDGE DATA ─────────────────────────┐
+│  ENGINE ..... ARM7 LPC2148                                      │
+│  INPUTS ..... 4x4 keypad + 16x2 LCD                             │
+│  TIMER ...... RTC-based alarms with interrupt handling          │
+│  ALERTS ..... Buzzer + LED indicator system                     │
+│  MISSION .... Zero missed doses for critical patients           │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+### 🔧 SIDE QUEST — CUSTOM C PRE-PROCESSOR
+
+> 🎮 [View Cartridge](https://github.com/ThanmaiVenkat/Custom-C-Pre-processor) — Rebuilt `#include`, `#define` & macro expansion from scratch. *Know thy toolchain.*
+
+---
+
+## 🏅 ACHIEVEMENTS UNLOCKED
+
+```
+ ┌────────────────────────────────────────────────────────────────┐
+ │  🏆 [LEGENDARY]  IEEE PUBLICATION — INDISCON 2025              │
+ │                  "ESP32 Explosive Disposal Robot"              │
+ │                                                                │
+ │  🎖️ [RARE]       EMBEDDED SYSTEMS VIRTUAL INTERNSHIP           │
+ │                  Microchip Technology × AICTE–EduSkills, 2024  │
+ └────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-### 🚗 Real-Time Vehicle Status Monitoring (CAN Bus)
-> **Platform:** ARM7 LPC2129 · **Protocol:** CAN Bus · **Display:** LCD
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  MCU        : ARM7 LPC2129                                 │
-│  Protocol   : CAN Bus (automotive-grade comm)              │
-│  Sensors    : Speed, Temp, RPM — real-time polling         │
-│  Output     : LCD display with live vehicle stats          │
-│  Use Case   : Fault detection & dashboard monitoring       │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-### 💊 DoseGuardian — Intelligent Medication Reminder
-> **Platform:** ARM7 LPC2148 · **Peripherals:** Keypad, LCD, Buzzer, RTC
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  MCU        : ARM7 LPC2148                                 │
-│  Interface  : 4x4 Keypad + 16x2 LCD                       │
-│  Timing     : RTC-based alarm with interrupt handling      │
-│  Alert      : Buzzer + LED indicator system               │
-│  Purpose    : Prevent missed doses for critical patients   │
-└─────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 📜 `cat ~/certifications.txt`
-
-| 🏅 Achievement | 🏢 Issuer | 📅 Year |
-|---|---|---|
-| 📄 **IEEE Publication** — ESP32 Disposal Robot | IEEE INDISCON 2025 | 2025 |
-| 🎓 **Virtual Internship** — Embedded Systems | Microchip Technology × AICTE–EduSkills | 2024 |
-
----
-
-## 📊 `htop` → GitHub Stats
+## 👾 HIGH SCORES
 
 <div align="center">
 
-![Thanmai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ThanmaiVenkat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ThanmaiVenkat&layout=compact&theme=tokyonight&hide_border=true)
+![Pixel Profile](https://pixel-profile.vercel.app/api/github-stats?username=ThanmaiVenkat&screen_effect=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ThanmaiVenkat&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=ThanmaiVenkat&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&count_private=true" height="165" alt="GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanmaiVenkat&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" height="165" alt="Top Languages">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ThanmaiVenkat&hide_border=true&background=0d1117&ring=00FF41&fire=FFFF00&currStreakLabel=00FF41&currStreakNum=00FFFF&sideNums=00FF41&sideLabels=FF00FF&dates=666666&stroke=00FF41)
 
 </div>
 
 ---
 
-## 📡 `ping thanmaivenkat` → Connect with Me
+## 📟 CONTINUE? — CONNECT WITH PLAYER 1
 
 <div align="center">
 
-| Platform | Link |
+| PORT | ADDRESS |
 |:---:|:---:|
 | 💼 LinkedIn | [linkedin.com/in/thanmaivenkat](https://www.linkedin.com/in/thanmaivenkat/) |
 | 🐱 GitHub | [github.com/ThanmaiVenkat](https://github.com/ThanmaiVenkat) |
 | 📄 IEEE Paper | [DOI: 10.1109/INDISCON66021.2025.11252391](https://doi.org/10.1109/INDISCON66021.2025.11252391) |
 
-</div>
-
----
-
-<div align="center">
+<br>
 
 ```
-[ System Status: ONLINE ]
-[ Role: Actively seeking Embedded Systems / Firmware roles ]
-[ Stack: C · Embedded C · Linux · ARM · ESP32 · RTOS ]
-[ Mode: Learning, Building, Debugging — Always ]
+ ╔════════════════════════════════════════════════════════════╗
+ ║   SYSTEM STATUS ... [ ONLINE ]                             ║
+ ║   QUEST ........... Seeking Embedded / Firmware roles      ║
+ ║   LOADOUT ......... C · ARM · ESP32 · Linux · RTOS · CAN   ║
+ ║   MODE ............ LEARN ▸ BUILD ▸ DEBUG ▸ REPEAT         ║
+ ╚════════════════════════════════════════════════════════════╝
+
+              ► GAME SAVED. THANKS FOR PLAYING! ◄
 ```
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ThanmaiVenkat&color=00ff00&style=flat-square&label=PROFILE+VIEWS)
+![Coins Inserted](https://komarev.com/ghpvc/?username=ThanmaiVenkat&color=00ff41&style=flat-square&label=COINS+INSERTED)
 
 *"The best embedded systems are invisible — they just work."*
 
