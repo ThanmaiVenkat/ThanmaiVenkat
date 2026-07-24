@@ -18,7 +18,7 @@ I'm an **Embedded Systems / Firmware Engineer** who enjoys making hardware talk 
 - 🔧 Focused on firmware, RTOS, and embedded communication protocols
 - 📄 Published author — IEEE INDISCON 2025
 - 🌱 Currently exploring Linux device drivers & real-time systems
-- 💼 Open to Embedded / Firmware roles in Hyderabad, Bangalore, Chennai
+- 💼 Working at Instrutel Systems
 
 <br>
 
