@@ -105,8 +105,8 @@ Rebuilt `#include`, `#define`, and macro expansion from scratch to understand th
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ThanmaiVenkat&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanmaiVenkat&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats-ten-psi-66.vercel.app/api?username=ThanmaiVenkat&show_icons=true&theme=default&hide_border=true" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats-ten-psi-66.vercel.app/api/top-langs/?username=ThanmaiVenkat&layout=compact&theme=default&hide_border=true" height="165" alt="Top Languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=ThanmaiVenkat&hide_border=true" alt="GitHub Streak"/>
 
